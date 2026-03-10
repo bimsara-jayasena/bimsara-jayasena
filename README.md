@@ -1,5 +1,12 @@
 ## Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/bimsara-jayasena)
+# Activity graph
+![Leetcode Stats](https://leetcard.jacoblin.cool/bimsara-jayasena?ext=activity)
+
+# Contest rating history
+![Leetcode Stats](https://leetcard.jacoblin.cool/bimsara-jayasena?ext=contest)
+
+# Heatmap (past 52 weeks)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bimsara-jayasena?ext=heatmap)
 <!--
 **bimsara-jayasena/bimsara-jayasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
