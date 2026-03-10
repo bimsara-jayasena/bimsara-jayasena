@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/bimsara-jayasena)
 <!--
 **bimsara-jayasena/bimsara-jayasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
